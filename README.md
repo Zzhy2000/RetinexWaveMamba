@@ -7,3 +7,7 @@ Low-light image enhancement is a critical research focus in the field of image r
 ![image](https://github.com/user-attachments/assets/3f88f7a2-61dc-4593-8eac-08d4363e815d)
 ![image](https://github.com/user-attachments/assets/d45e96f2-923e-41b2-adda-869205e658ea)
 
+# Visuals
+![image](https://github.com/user-attachments/assets/f3824859-fc45-4d1e-bc11-08a27d1230eb)
+![image](https://github.com/user-attachments/assets/a637a9a6-4993-4664-8118-d15c68861d46)
+
